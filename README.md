@@ -1,1 +1,2 @@
-[Project Wiki] (https://github.com/TomahnaProject/TomahnaProjectWiki/wiki)
+Visit the [Tomahna Project Wiki](https://github.com/TomahnaProject/TomahnaProjectWiki/wiki)
+
